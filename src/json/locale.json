@@ -1,0 +1,26 @@
+{
+    "SK": {
+        "app_title": "Hra s kockami",
+        "rolling_dice": "Hra s",
+        "game": "kockami",
+        "number": "Počet",
+        "of_dice": "kociek",
+        "customNames": "Vlastné názvy",
+        "play": "Hrať",
+        "rolling": "Hádžem",
+        "reset": "Reset"
+    },
+
+
+    "EN": {
+        "app_title": "Rolling dice game",
+        "rolling_dice": "Rolling dice",
+        "game": "game",
+        "number": "Number",
+        "of_dice": "of dice",
+        "customNames": "Custom names",
+        "play": "Play",
+        "rolling": "Rolling",
+        "reset": "Reset"
+    }
+}
