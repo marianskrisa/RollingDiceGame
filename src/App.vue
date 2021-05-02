@@ -206,7 +206,7 @@ export default {
 	},
 	data(){
 		return{
-			lng: lang.EN,
+			lng: lang.SK,
 			language: 'SK',
 
 			logoDice: 1,
