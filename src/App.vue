@@ -207,7 +207,7 @@ export default {
 	data(){
 		return{
 			lng: lang.EN,
-			language: 'EN',
+			language: 'SK',
 
 			logoDice: 1,
 			diceInPlay: 1,
